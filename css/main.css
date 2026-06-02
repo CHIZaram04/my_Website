@@ -1,0 +1,25 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:#03040a;
+color:white;
+font-family:Arial,sans-serif;
+}
+
+section{
+padding:120px 10%;
+}
+
+h1{
+font-size:72px;
+margin-bottom:30px;
+}
+
+p{
+font-size:20px;
+line-height:1.7;
+}
